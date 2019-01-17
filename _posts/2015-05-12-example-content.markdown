@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Example content"
-date:   2016-05-12 22:02:01 -0500
+date:   2019-01-12 22:02:01 -0500
 comments: true
 categories: jekyll
 ---
