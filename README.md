@@ -1,35 +1,55 @@
-# taken
+# jekyll-theme-EasyBook
 
-Taken is a minimalist two-column jekyll theme based on chapter tumblr theme 
+Another Jekyll Blog Theme "EasyBook"
 
-![Taken](https://github.com/vfalanis/taken/blob/master/Taken.png)
-
-## Updates
-
-Note: There's a stable branch (v1.0) which includes the default taken theme.
-Master and gh-pages branch now include the latest changes:
-
-* Better responsive support ( sidebar collapse)
-* Fade in animations
-
+Start blogging with a simple but powerful theme.
 
 ## Features
-* Flickr feed
-* Disqus
-* more ...
+
+- Everything Basic Jekyll has.
+- **Pagination** is enabled.
+- **Comments** using Disqus or 多说.
+- **TOC** makes reading easier.
+- **Profile** including your links and avatar on the sidebar.
+- *And more...*
+
+## Install
+
+Read [Quick Guide] to learn how to install and publish.
+
+Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
+
+**If need help, please:**
+
+ - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
+ - **Google it**
+ - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
+
+## Donate
+
+Buy me a coffee if you find EasyBook useful for you :smiley:
+
+Visit <http://laobubu.net/donate.html>
 
 ## Demo
-You can see a live demo of "taken" [here](http://vfalanis.github.io/taken)
 
-## Instructions
+[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
 
-1. Fork this repository
-2. Clone the repository to your computer.<br />`git clone https://github.com/YOURUSERNAME/taken.git` 
-3. Run it.<br />`jekyll serve`
-4. Go to http://127.0.0.1:4000.
+![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
 
-## To do list:
-* Categories support
-* Add portfolio section
-* Flickr plugin animation and configuration
-* More...
+## License
+
+```
+The MIT License (MIT)
+Copyright (c) 2016 laobubu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
+[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
+[jekyll]: http://jekyllrb.com/

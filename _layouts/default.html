@@ -5,29 +5,21 @@
 
   <body>
 
-    {% include sidebar.html %}
-      
-    <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-2.x-git.min.js"></script>
-      
-    <!-- Bootstrap Core JavaScript -->
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    {% include header.html %}
 
-    <script src="{{ site.baseurl }}/js/index.js"></script>
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="col-main">
+          {{ content }}
+        </div>
+        <div class="col-second">
+          {% include sidebar.html %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
 
   </body>
-
-    <script>
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("toggled");
-    });
-    </script>
-    
-    <script>
-    $(document).ready(function(){
-    $('#page-content-wrapper').fadeIn();
-    });
-    </script>
 
 </html>
