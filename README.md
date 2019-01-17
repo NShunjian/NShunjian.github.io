@@ -1,84 +1,32 @@
-# Jekyll-Jacman
+# About
 
-**中文 | [English](/README_en.md)**
+This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
 
-Jekyll-Jacman 是为 [Jekyll](http://jekyllrb.com) 设计的一款清新且具有响应式的主题，拥有更丰富的特性并支持了很多的国内服务。Jacman 始于 [Hexo Jacman](https://github.com/wuchong/jacman) 移植而来。
+You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
- * [主题演示](http://simpleyyt.github.io/jekyll-jacman/)
- * [如何使用 Jacman 主题](http://simpleyyt.github.io/jekyll-jacman/jekyll/2015/09/20/how-to-use-jacman)
+---
 
-## 本地搭建
+这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
 
-确保已安装`Ruby 2.1.0` 或更高版本：
+博客访问地址：[点击这里](http://gaohaoyang.github.io)
 
-```sh
-ruby --version
-```
+**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
-安装`Bundler`：
+<!--
 
-```sh
-gem install bundler
-```
+## 被引用信息
 
-下载 Jacman 主题：
+使用了我的模板并写明来源的人：   
 
-```sh
-git clone https://github.com/Simpleyyt/jekyll-jacman.git
-cd jekyll-jacman
-```
+* [dreamholy](http://dreamholy.github.io/)
 
-安装依赖：
+没有注明来源的人：
 
-```sh
-bundle install
-```
+* [yangshuailing](http://yangshuailing.github.io/com/)
+* [huapu728](http://huapu728.github.io/)
+* [greatbuger](http://greatbuger.github.io/) 
 
-运行 Jekyll：
 
-```sh
-bundle exec jekyll server
-```
+-->
 
-更多细节可以参考：[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
-## 功能
-
-- **菜单 menu**  
- 主导航菜单
-- **控件 widget**  
- 侧边栏的控件。包括：Github 名片	、分类、标签、RSS、友情链接、微博秀。
-- **图片相关 Image**  
- 设置网站图标、网站logo、作者头像、博客顶部大图等。还提供了多种图片样式`img-logo`,`img-topic`,`img-center`等。
-- **首页模式 index**  
- 主题提供了两种首页展示模式。
-- **作者 author**  
- 作者信息，主要用于展示网站右下角的社交网络链接。包括：微博、豆瓣、知乎、邮箱、GitHub、StackOverflow、Twitter、Facebook、Linkedin、Google+。
-- **目录 toc**  
- 在文章中和侧边栏可以显示目录。
-- **评论 comments**  
- 支持 [多说](http://duoshuo.com/) & [disqus](https://disqus.com/) 评论。
-- **分享 jiathis**  
- 启用 内建分享工具 或 [加网](http://www.jiathis.com/) 分享系统。
-- **网站统计 Analytiscs**  
- 支持 [谷歌统计](http://www.google.com/analytics/) & [百度统计](http://tongji.baidu.com/) & [CNZZ站长统计](http://www.cnzz.com/)。
-- **Search**  
- 支持 [谷歌自定义搜索](https://www.google.com/cse/ ) & [百度站内搜索](http://zn.baidu.com/)  &[微搜索](http://tinysou.com/)。 &[Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-- **totop**  
- 回到顶部。
-- **rss**  
- RSS 订阅链接。
-- **fancybox**  
- 图片查看的 [Fancybox](http://fancyapps.com/fancybox/) 工具。
-- **其他**
- 你可以设置侧边栏在博文页面中不显示。
-
-## 协议
-
-[MIT](/LICENSE)
-
-## 捐赠
-
-支付宝捐赠链接还是要有的，万一真的有人捐呢。
-
-![支付宝扫码捐赠](http://p1.bpimg.com/567571/9a4a158daee8aa69.png)
