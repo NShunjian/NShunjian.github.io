@@ -39,7 +39,7 @@ imglogo:
   src: img/logo.png        
 favicon: img/favicon.ico     ## 网站图标    
 apple_icon: img/jacman.jpg   ## 苹果设备上的图标，背景不要透明
-author_img: img/741547730259_.pic.jpg   ## 网站底部的博主头像
+author_img: img/741547730259.jpg   ## 网站底部的博主头像
 banner_img: img/banner.jpg   ## 博客顶部的图片
 
 close_aside: false      ##是否在文章页面自动关闭侧边栏
