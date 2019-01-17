@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example content"
+title:  "内容概要"
 date:   2019-01-12 22:02:01 -0500
 comments: true
 categories: jekyll
