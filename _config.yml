@@ -1,18 +1,18 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: NShunjian
+email: 528392911@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 这里记录着我的前端学习之路
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+# facebook: username
+# linkedin: username
+github: NShunjian
+deviantart: NShunjian
+codepen: NShunjian
 
 footer: © Taken theme
 
