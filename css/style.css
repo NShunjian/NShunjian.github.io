@@ -79,8 +79,21 @@ a, a:hover {
   outline: none;
   text-decoration: underline;
   color: #A4AA04;
+
+  
+}
+#contenttext {
+  
+  /* color: #A4AA04; */
+  color: rgb(15, 15, 15);
 }
 
+#contenttext:hover {
+  color: #A4AA04;
+}
+#h2color {
+  color: #FFF;
+}
 a:hover {  
   text-decoration: none;
 }
@@ -147,7 +160,8 @@ header {
 }
 
 #logo h1, #logo h2 { 
-  font: normal 220% arial, sans-serif;
+  /* font: normal 220% arial, sans-serif; */
+  font: normal 280% arial, sans-serif;
   border-bottom: 0;
   text-transform: none;
   text-shadow: none;

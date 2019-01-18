@@ -53,7 +53,7 @@
     <div id="site_content">
       <div id="sidebar_container">
         <div class="sidebar">
-          <h3>Latest News</h3>
+          <h3>最新消息</h3>
           <h4>New Website Launched</h4>
           <h5>March 1st, 2012</h5>
           <p>2012 sees the redesign of our website. Let us know what you think..... <a href="#">read more</a></p>
